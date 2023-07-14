@@ -81,9 +81,7 @@ const Testomonials = () => {
                                    <Box sx={{height:"fit-content",width:"fit-content",borderRadius:"50px",overflow:"hidden"}}> 
                                      <img src={avtar} alt="parsal" height="45px" width="55px" />
                                    </Box>
-                                     
                                      <Typography sx={{fontSize:"15px",fontWeight:"700",ml:"10px",width:"fit-content",wordWrap:"wrap"}}>Mr Harkirat OberoiClient</Typography>
-
                                    </Box>
                                    <Box sx={{p:"10px"}}>
                                      <Rating name="size-large" defaultValue={4} sx={{fontSize:"40px"}} size='large' disabled/>
