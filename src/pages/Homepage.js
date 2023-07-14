@@ -5,6 +5,7 @@ import { Grid } from '@mui/material'
 import BannerText from '../components/BannerText'
 import { AdelContext } from '../store/Context'
 // import Footer from '../components/Footer'
+
 import WhyUs from '../components/WhyUs'
 import Technologies from '../components/Technologies'
 import WebHosting from '../components/WebHosting'
