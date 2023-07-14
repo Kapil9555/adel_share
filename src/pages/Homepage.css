@@ -1,0 +1,43 @@
+.serviceSection{
+    padding: 60px 20px; 
+background-color: white;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+.technologySection{
+    margin-bottom:80px ;
+    height: 30vh;
+background-color: white;
+flex-direction: column;
+}
+.scrollTech::-webkit-scrollbar{
+display: none;
+}
+.scrollTechParent{
+position: relative;
+}
+/* .scrollTech::before{
+content: '>';
+font-size: 30px;
+border: 20px solid transparent;
+
+border-radius:100% ;
+position: absolute;
+cursor: pointer;
+left: 0;
+top:5rem
+}
+
+.scrollTech::after{
+content: '<';
+font-size: 30px;
+border: 20px solid transparent;
+
+border-image-repeat: no-repeat;
+border-radius:100% ;
+position: absolute;
+right: 0;
+cursor: pointer;
+top:4rem
+} */
